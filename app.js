@@ -39,7 +39,6 @@ console.log(firstName + lastName);
 11Frodo
 true11
 FrodoBaggins*/
-EXERCISE 3:
 
 // Exercise 3
 console.log("EXERCISE 3:\n==========\n");
